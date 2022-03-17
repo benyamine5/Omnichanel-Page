@@ -1,0 +1,18 @@
+Entorno virtual para aislar el proyecto
+es buena practica para crear entorno virtual
+existe virtualenv
+
+comnando: pip install virtualenv
+
+1. Se crea el entorno virtual: virtualenv venv  (venv es el nombre por defecto para buenas practicas)
+
+2  para activarlo en linux: source nombre_entorno_virtual/bin/activate
+3 para desactivarlo: deactivate asi como esta escrito
+
+4 instalar en el entorno virtual: pip install flask Flask-PyMongo flask-cors
+
+
+5 Para hacer una lista de archivos instalados: pip freeze
+para instalar archivos de lista: (tutorial-env) $ python -m pip install -r requirements.txt
+
+6. Escoger el interprete para que reconozca los datos de ese entorno virtual
