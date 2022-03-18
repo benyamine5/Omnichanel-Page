@@ -1,0 +1,4 @@
+Correr mongodb en linux: sudo systemctl start mongod
+Pagar mongodb en linux: sudo systemctl stop mongod
+usar la shell de mongo en linux: mongosh
+ver bases de datos: show dbs
